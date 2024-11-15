@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jasa Legalitas Usaha dengan Desain Kemasan Gratis</title>
+  <title>Jasa Pembuatan Legalitas Usaha NIB & PIRT Plus Kemasan Gratis</title>
   <style>
     /* CSS untuk landing page */
     body {
@@ -156,7 +156,7 @@
 </head>
 <body>
   <header>
-    <h1>Jasa Legalitas Usaha dengan Desain Kemasan Gratis</h1>
+    <h1>Jasa Pembuatan Legalitas Usaha NIB & PIRT Plus Kemasan Gratis</h1>
     <p>Dapatkan NIB, PIRT, dan dokumen legalitas usaha lainnya beserta desain kemasan profesional tanpa biaya tambahan!</p>
     <a href="https://wa.me/085733186243?text=Halo%2C%20Saya%20ingin%20Konsultasi%20mengenai%20Layanan%20Pembuatan%20Legalitas%20Anda!" class="cta-button">
       <i class="fa fa-whatsapp"></i> Konsultasi Sekarang!
@@ -169,7 +169,7 @@
   </section>
 
   <section id="gambar">
-    <img src="Legalitasqu_NIB_PIRT.jpg" alt="Legalitasqu NIB PIRT">
+    <img src="Legalitasqu_NIB_PIRT.jpg" alt="Legalitasqu NIB PIRT" width="940" height="788">
   </section>
 
   <section id="promo">
